@@ -5,8 +5,8 @@
 | Project Name | {Online Guitar Shop}|
 | Description | {A place for selling guitars} |
 | Developers | {Nicholas Murray} |
-| Live Website | {https://guitargarage-backend.onrender.com/} |
-| Repo | {https://github.com/nmurr13/guitarshop-backend/} |
+| Live Website | { https://guitargarage-backend.onrender.com/ } |
+| Repo | { https://github.com/nmurr13/guitarshop-backend/ } |
 
 ## Problem Being Solved and Target Market
 
