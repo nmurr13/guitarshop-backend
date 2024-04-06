@@ -2,7 +2,7 @@
 
 | Field | Detail |
 |-------|--------|
-| Project Name | {Online Guitar Shop}|
+| Project Name | {Guitar Garage}|
 | Description | {A place for selling guitars} |
 | Developers | {Nicholas Murray} |
 | Live Website | { https://guitargarage-backend.onrender.com/ } |
