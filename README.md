@@ -35,4 +35,4 @@ Django backend: JSON API with full crud functionality for the model
 | /update/:id | PUT | update guitar, return its JSON |
 | /edit/:id | DELETE | delete the guitar with the matching id|
 
-![alt text] (https://i.ibb.co/cX5YGLR/erd.png)
+![alt text](https://i.ibb.co/cX5YGLR/erd.png)
